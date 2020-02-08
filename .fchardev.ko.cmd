@@ -1,1 +1,0 @@
-cmd_/home/vm1/cs730/playground/modules_play/fchardev/fchardev.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/vm1/cs730/playground/modules_play/fchardev/fchardev.ko /home/vm1/cs730/playground/modules_play/fchardev/fchardev.o /home/vm1/cs730/playground/modules_play/fchardev/fchardev.mod.o ;  true
