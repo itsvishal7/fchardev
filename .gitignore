@@ -1,0 +1,8 @@
+*cmd
+.t*
+Module.symvers
+fchardev.ko
+fchardev.mod.c
+fchardev.mod.o
+fchardev.o
+modules.order
