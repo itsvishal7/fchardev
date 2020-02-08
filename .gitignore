@@ -1,8 +1,10 @@
-*cmd
-.t*
+.fchardev.ko.cmd
+fchardev.mod.o
+fchardev.o
 Module.symvers
 fchardev.ko
 fchardev.mod.c
-fchardev.mod.o
-fchardev.o
+.fchardev.mod.o.cmd
+.fchardev.o.cmd
 modules.order
+.tmp_versions
